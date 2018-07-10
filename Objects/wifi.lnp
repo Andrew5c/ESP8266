@@ -1,0 +1,24 @@
+--cpu Cortex-M3
+".\objects\core_cm3.o"
+".\objects\system_stm32f10x.o"
+".\objects\startup_stm32f10x_hd.o"
+".\objects\misc.o"
+".\objects\stm32f10x_gpio.o"
+".\objects\stm32f10x_rcc.o"
+".\objects\stm32f10x_tim.o"
+".\objects\stm32f10x_usart.o"
+".\objects\client.o"
+".\objects\main.o"
+".\objects\stm32f10x_it.o"
+".\objects\systick.o"
+".\objects\time2.o"
+".\objects\usart3.o"
+".\objects\usart2.o"
+".\objects\usart1.o"
+".\objects\beep.o"
+".\objects\delay.o"
+".\objects\usart2printf.o"
+--library_type=microlib --strict --scatter ".\Objects\wifi.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\wifi.map" -o .\Objects\wifi.axf

@@ -1,0 +1,304 @@
+Dependencies for Project 'wifi', Target 'wifi': (DO NOT MODIFY !)
+F (.\CMSIS\core_cm3.c)(0x559784D6)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I.\CMSIS -I.\CMSIS\startup -I.\FWlib\inc -I.\USER --c99-I G:\µÂ·ÉÀ³WIFI\WiFi\RTE-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="515" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\objects\core_cm3.o --omf_browse .\objects\core_cm3.crf --depend .\objects\core_cm3.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54C245B8)
+F (.\CMSIS\stm32f10x.h)(0x55E50A8E)()
+F (.\CMSIS\system_stm32f10x.c)(0x559784D6)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I.\CMSIS -I.\CMSIS\startup -I.\FWlib\inc -I.\USER --c99-I G:\µÂ·ÉÀ³WIFI\WiFi\RTE-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="515" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\objects\system_stm32f10x.o --omf_browse .\objects\system_stm32f10x.crf --depend .\objects\system_stm32f10x.d)
+I (CMSIS\stm32f10x.h)(0x55E50A8E)
+I (CMSIS\core_cm3.h)(0x559784D6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54C245B8)
+I (CMSIS\system_stm32f10x.h)(0x559784D6)
+I (.\USER\stm32f10x_conf.h)(0x5B00C69D)
+I (.\FWlib\inc\stm32f10x_gpio.h)(0x559784D6)
+I (.\CMSIS\stm32f10x.h)(0x55E50A8E)
+I (.\FWlib\inc\stm32f10x_rcc.h)(0x559784D6)
+I (.\FWlib\inc\stm32f10x_tim.h)(0x559784D6)
+I (.\FWlib\inc\stm32f10x_usart.h)(0x559784D6)
+I (.\FWlib\inc\misc.h)(0x559784D6)
+F (.\CMSIS\startup\startup_stm32f10x_hd.s)(0x55BEC7C8)(--cpu Cortex-M3 -g --apcs=interwork --pd "__MICROLIB SETA 1"-I G:\µÂ·ÉÀ³WIFI\WiFi\RTE-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include-I C:\Keil_v5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 515" --pd "STM32F10X_MD SETA 1"--list .\listings\startup_stm32f10x_hd.lst --xref -o .\objects\startup_stm32f10x_hd.o --depend .\objects\startup_stm32f10x_hd.d)
+F (.\FWlib\src\misc.c)(0x559784D6)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I.\CMSIS -I.\CMSIS\startup -I.\FWlib\inc -I.\USER --c99-I G:\µÂ·ÉÀ³WIFI\WiFi\RTE-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="515" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\objects\misc.o --omf_browse .\objects\misc.crf --depend .\objects\misc.d)
+I (.\FWlib\inc\misc.h)(0x559784D6)
+I (.\CMSIS\stm32f10x.h)(0x55E50A8E)
+I (.\CMSIS\core_cm3.h)(0x559784D6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54C245B8)
+I (.\CMSIS\system_stm32f10x.h)(0x559784D6)
+I (.\USER\stm32f10x_conf.h)(0x5B00C69D)
+I (.\FWlib\inc\stm32f10x_gpio.h)(0x559784D6)
+I (.\FWlib\inc\stm32f10x_rcc.h)(0x559784D6)
+I (.\FWlib\inc\stm32f10x_tim.h)(0x559784D6)
+I (.\FWlib\inc\stm32f10x_usart.h)(0x559784D6)
+F (.\FWlib\src\stm32f10x_gpio.c)(0x559784D6)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I.\CMSIS -I.\CMSIS\startup -I.\FWlib\inc -I.\USER --c99-I G:\µÂ·ÉÀ³WIFI\WiFi\RTE-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="515" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\objects\stm32f10x_gpio.o --omf_browse .\objects\stm32f10x_gpio.crf --depend .\objects\stm32f10x_gpio.d)
+I (.\FWlib\inc\stm32f10x_gpio.h)(0x559784D6)
+I (.\CMSIS\stm32f10x.h)(0x55E50A8E)
+I (.\CMSIS\core_cm3.h)(0x559784D6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54C245B8)
+I (.\CMSIS\system_stm32f10x.h)(0x559784D6)
+I (.\USER\stm32f10x_conf.h)(0x5B00C69D)
+I (.\FWlib\inc\stm32f10x_rcc.h)(0x559784D6)
+I (.\FWlib\inc\stm32f10x_tim.h)(0x559784D6)
+I (.\FWlib\inc\stm32f10x_usart.h)(0x559784D6)
+I (.\FWlib\inc\misc.h)(0x559784D6)
+F (.\FWlib\src\stm32f10x_rcc.c)(0x559784D6)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I.\CMSIS -I.\CMSIS\startup -I.\FWlib\inc -I.\USER --c99-I G:\µÂ·ÉÀ³WIFI\WiFi\RTE-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="515" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\objects\stm32f10x_rcc.o --omf_browse .\objects\stm32f10x_rcc.crf --depend .\objects\stm32f10x_rcc.d)
+I (.\FWlib\inc\stm32f10x_rcc.h)(0x559784D6)
+I (.\CMSIS\stm32f10x.h)(0x55E50A8E)
+I (.\CMSIS\core_cm3.h)(0x559784D6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54C245B8)
+I (.\CMSIS\system_stm32f10x.h)(0x559784D6)
+I (.\USER\stm32f10x_conf.h)(0x5B00C69D)
+I (.\FWlib\inc\stm32f10x_gpio.h)(0x559784D6)
+I (.\FWlib\inc\stm32f10x_tim.h)(0x559784D6)
+I (.\FWlib\inc\stm32f10x_usart.h)(0x559784D6)
+I (.\FWlib\inc\misc.h)(0x559784D6)
+F (.\FWlib\src\stm32f10x_tim.c)(0x559784D6)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I.\CMSIS -I.\CMSIS\startup -I.\FWlib\inc -I.\USER --c99-I G:\µÂ·ÉÀ³WIFI\WiFi\RTE-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="515" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\objects\stm32f10x_tim.o --omf_browse .\objects\stm32f10x_tim.crf --depend .\objects\stm32f10x_tim.d)
+I (.\FWlib\inc\stm32f10x_tim.h)(0x559784D6)
+I (.\CMSIS\stm32f10x.h)(0x55E50A8E)
+I (.\CMSIS\core_cm3.h)(0x559784D6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54C245B8)
+I (.\CMSIS\system_stm32f10x.h)(0x559784D6)
+I (.\USER\stm32f10x_conf.h)(0x5B00C69D)
+I (.\FWlib\inc\stm32f10x_gpio.h)(0x559784D6)
+I (.\FWlib\inc\stm32f10x_rcc.h)(0x559784D6)
+I (.\FWlib\inc\stm32f10x_usart.h)(0x559784D6)
+I (.\FWlib\inc\misc.h)(0x559784D6)
+F (.\FWlib\src\stm32f10x_usart.c)(0x559784D6)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I.\CMSIS -I.\CMSIS\startup -I.\FWlib\inc -I.\USER --c99-I G:\µÂ·ÉÀ³WIFI\WiFi\RTE-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="515" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\objects\stm32f10x_usart.o --omf_browse .\objects\stm32f10x_usart.crf --depend .\objects\stm32f10x_usart.d)
+I (.\FWlib\inc\stm32f10x_usart.h)(0x559784D6)
+I (.\CMSIS\stm32f10x.h)(0x55E50A8E)
+I (.\CMSIS\core_cm3.h)(0x559784D6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54C245B8)
+I (.\CMSIS\system_stm32f10x.h)(0x559784D6)
+I (.\USER\stm32f10x_conf.h)(0x5B00C69D)
+I (.\FWlib\inc\stm32f10x_gpio.h)(0x559784D6)
+I (.\FWlib\inc\stm32f10x_rcc.h)(0x559784D6)
+I (.\FWlib\inc\stm32f10x_tim.h)(0x559784D6)
+I (.\FWlib\inc\misc.h)(0x559784D6)
+F (.\USER\client.c)(0x5B3F703D)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I.\CMSIS -I.\CMSIS\startup -I.\FWlib\inc -I.\USER --c99-I G:\µÂ·ÉÀ³WIFI\WiFi\RTE-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="515" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\objects\client.o --omf_browse .\objects\client.crf --depend .\objects\client.d)
+I (USER\main.h)(0x5B23C305)
+I (.\CMSIS\stm32f10x.h)(0x55E50A8E)
+I (.\CMSIS\core_cm3.h)(0x559784D6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54C245B8)
+I (.\CMSIS\system_stm32f10x.h)(0x559784D6)
+I (.\USER\stm32f10x_conf.h)(0x5B00C69D)
+I (.\FWlib\inc\stm32f10x_gpio.h)(0x559784D6)
+I (.\FWlib\inc\stm32f10x_rcc.h)(0x559784D6)
+I (.\FWlib\inc\stm32f10x_tim.h)(0x559784D6)
+I (.\FWlib\inc\stm32f10x_usart.h)(0x559784D6)
+I (.\FWlib\inc\misc.h)(0x559784D6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x54C245B8)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x54C245B8)
+I (USER\delay.h)(0x5B018646)
+I (USER\systick.h)(0x5A44E219)
+I (USER\usart1.h)(0x5B248107)
+I (USER\usart2.h)(0x5AB5FE57)
+I (USER\usart3.h)(0x5B23C3C8)
+I (USER\client.h)(0x5B23A7EF)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x54C245B8)
+I (USER\TIME2.h)(0x5AFFFCB3)
+I (USER\beep.h)(0x5B23B4A4)
+I (USER\usart2printf.h)(0x5AB61588)
+F (.\USER\main.c)(0x5B3F7106)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I.\CMSIS -I.\CMSIS\startup -I.\FWlib\inc -I.\USER --c99-I G:\µÂ·ÉÀ³WIFI\WiFi\RTE-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="515" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (USER\main.h)(0x5B23C305)
+I (.\CMSIS\stm32f10x.h)(0x55E50A8E)
+I (.\CMSIS\core_cm3.h)(0x559784D6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54C245B8)
+I (.\CMSIS\system_stm32f10x.h)(0x559784D6)
+I (.\USER\stm32f10x_conf.h)(0x5B00C69D)
+I (.\FWlib\inc\stm32f10x_gpio.h)(0x559784D6)
+I (.\FWlib\inc\stm32f10x_rcc.h)(0x559784D6)
+I (.\FWlib\inc\stm32f10x_tim.h)(0x559784D6)
+I (.\FWlib\inc\stm32f10x_usart.h)(0x559784D6)
+I (.\FWlib\inc\misc.h)(0x559784D6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x54C245B8)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x54C245B8)
+I (USER\delay.h)(0x5B018646)
+I (USER\systick.h)(0x5A44E219)
+I (USER\usart1.h)(0x5B248107)
+I (USER\usart2.h)(0x5AB5FE57)
+I (USER\usart3.h)(0x5B23C3C8)
+I (USER\client.h)(0x5B23A7EF)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x54C245B8)
+I (USER\TIME2.h)(0x5AFFFCB3)
+I (USER\beep.h)(0x5B23B4A4)
+I (USER\usart2printf.h)(0x5AB61588)
+F (.\USER\stm32f10x_it.c)(0x5AB5E4B2)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I.\CMSIS -I.\CMSIS\startup -I.\FWlib\inc -I.\USER --c99-I G:\µÂ·ÉÀ³WIFI\WiFi\RTE-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="515" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\objects\stm32f10x_it.o --omf_browse .\objects\stm32f10x_it.crf --depend .\objects\stm32f10x_it.d)
+I (USER\stm32f10x_it.h)(0x559784D4)
+I (.\CMSIS\stm32f10x.h)(0x55E50A8E)
+I (.\CMSIS\core_cm3.h)(0x559784D6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54C245B8)
+I (.\CMSIS\system_stm32f10x.h)(0x559784D6)
+I (.\USER\stm32f10x_conf.h)(0x5B00C69D)
+I (.\FWlib\inc\stm32f10x_gpio.h)(0x559784D6)
+I (.\FWlib\inc\stm32f10x_rcc.h)(0x559784D6)
+I (.\FWlib\inc\stm32f10x_tim.h)(0x559784D6)
+I (.\FWlib\inc\stm32f10x_usart.h)(0x559784D6)
+I (.\FWlib\inc\misc.h)(0x559784D6)
+F (.\USER\systick.c)(0x5AB5E4B2)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I.\CMSIS -I.\CMSIS\startup -I.\FWlib\inc -I.\USER --c99-I G:\µÂ·ÉÀ³WIFI\WiFi\RTE-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="515" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\objects\systick.o --omf_browse .\objects\systick.crf --depend .\objects\systick.d)
+I (USER\systick.h)(0x5A44E219)
+I (.\CMSIS\stm32f10x.h)(0x55E50A8E)
+I (.\CMSIS\core_cm3.h)(0x559784D6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54C245B8)
+I (.\CMSIS\system_stm32f10x.h)(0x559784D6)
+I (.\USER\stm32f10x_conf.h)(0x5B00C69D)
+I (.\FWlib\inc\stm32f10x_gpio.h)(0x559784D6)
+I (.\FWlib\inc\stm32f10x_rcc.h)(0x559784D6)
+I (.\FWlib\inc\stm32f10x_tim.h)(0x559784D6)
+I (.\FWlib\inc\stm32f10x_usart.h)(0x559784D6)
+I (.\FWlib\inc\misc.h)(0x559784D6)
+F (.\USER\TIME2.c)(0x5B07A688)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I.\CMSIS -I.\CMSIS\startup -I.\FWlib\inc -I.\USER --c99-I G:\µÂ·ÉÀ³WIFI\WiFi\RTE-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="515" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\objects\time2.o --omf_browse .\objects\time2.crf --depend .\objects\time2.d)
+I (USER\main.h)(0x5B23C305)
+I (.\CMSIS\stm32f10x.h)(0x55E50A8E)
+I (.\CMSIS\core_cm3.h)(0x559784D6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54C245B8)
+I (.\CMSIS\system_stm32f10x.h)(0x559784D6)
+I (.\USER\stm32f10x_conf.h)(0x5B00C69D)
+I (.\FWlib\inc\stm32f10x_gpio.h)(0x559784D6)
+I (.\FWlib\inc\stm32f10x_rcc.h)(0x559784D6)
+I (.\FWlib\inc\stm32f10x_tim.h)(0x559784D6)
+I (.\FWlib\inc\stm32f10x_usart.h)(0x559784D6)
+I (.\FWlib\inc\misc.h)(0x559784D6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x54C245B8)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x54C245B8)
+I (USER\delay.h)(0x5B018646)
+I (USER\systick.h)(0x5A44E219)
+I (USER\usart1.h)(0x5B248107)
+I (USER\usart2.h)(0x5AB5FE57)
+I (USER\usart3.h)(0x5B23C3C8)
+I (USER\client.h)(0x5B23A7EF)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x54C245B8)
+I (USER\TIME2.h)(0x5AFFFCB3)
+I (USER\beep.h)(0x5B23B4A4)
+I (USER\usart2printf.h)(0x5AB61588)
+F (.\USER\USART3.c)(0x5B246763)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I.\CMSIS -I.\CMSIS\startup -I.\FWlib\inc -I.\USER --c99-I G:\µÂ·ÉÀ³WIFI\WiFi\RTE-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="515" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\objects\usart3.o --omf_browse .\objects\usart3.crf --depend .\objects\usart3.d)
+I (USER\main.h)(0x5B23C305)
+I (.\CMSIS\stm32f10x.h)(0x55E50A8E)
+I (.\CMSIS\core_cm3.h)(0x559784D6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54C245B8)
+I (.\CMSIS\system_stm32f10x.h)(0x559784D6)
+I (.\USER\stm32f10x_conf.h)(0x5B00C69D)
+I (.\FWlib\inc\stm32f10x_gpio.h)(0x559784D6)
+I (.\FWlib\inc\stm32f10x_rcc.h)(0x559784D6)
+I (.\FWlib\inc\stm32f10x_tim.h)(0x559784D6)
+I (.\FWlib\inc\stm32f10x_usart.h)(0x559784D6)
+I (.\FWlib\inc\misc.h)(0x559784D6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x54C245B8)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x54C245B8)
+I (USER\delay.h)(0x5B018646)
+I (USER\systick.h)(0x5A44E219)
+I (USER\usart1.h)(0x5B248107)
+I (USER\usart2.h)(0x5AB5FE57)
+I (USER\usart3.h)(0x5B23C3C8)
+I (USER\client.h)(0x5B23A7EF)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x54C245B8)
+I (USER\TIME2.h)(0x5AFFFCB3)
+I (USER\beep.h)(0x5B23B4A4)
+I (USER\usart2printf.h)(0x5AB61588)
+F (.\USER\USART2.c)(0x5B0784DF)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I.\CMSIS -I.\CMSIS\startup -I.\FWlib\inc -I.\USER --c99-I G:\µÂ·ÉÀ³WIFI\WiFi\RTE-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="515" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\objects\usart2.o --omf_browse .\objects\usart2.crf --depend .\objects\usart2.d)
+I (USER\main.h)(0x5B23C305)
+I (.\CMSIS\stm32f10x.h)(0x55E50A8E)
+I (.\CMSIS\core_cm3.h)(0x559784D6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54C245B8)
+I (.\CMSIS\system_stm32f10x.h)(0x559784D6)
+I (.\USER\stm32f10x_conf.h)(0x5B00C69D)
+I (.\FWlib\inc\stm32f10x_gpio.h)(0x559784D6)
+I (.\FWlib\inc\stm32f10x_rcc.h)(0x559784D6)
+I (.\FWlib\inc\stm32f10x_tim.h)(0x559784D6)
+I (.\FWlib\inc\stm32f10x_usart.h)(0x559784D6)
+I (.\FWlib\inc\misc.h)(0x559784D6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x54C245B8)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x54C245B8)
+I (USER\delay.h)(0x5B018646)
+I (USER\systick.h)(0x5A44E219)
+I (USER\usart1.h)(0x5B248107)
+I (USER\usart2.h)(0x5AB5FE57)
+I (USER\usart3.h)(0x5B23C3C8)
+I (USER\client.h)(0x5B23A7EF)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x54C245B8)
+I (USER\TIME2.h)(0x5AFFFCB3)
+I (USER\beep.h)(0x5B23B4A4)
+I (USER\usart2printf.h)(0x5AB61588)
+F (.\USER\USART1.c)(0x5B3F703D)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I.\CMSIS -I.\CMSIS\startup -I.\FWlib\inc -I.\USER --c99-I G:\µÂ·ÉÀ³WIFI\WiFi\RTE-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="515" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\objects\usart1.o --omf_browse .\objects\usart1.crf --depend .\objects\usart1.d)
+I (USER\main.h)(0x5B23C305)
+I (.\CMSIS\stm32f10x.h)(0x55E50A8E)
+I (.\CMSIS\core_cm3.h)(0x559784D6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54C245B8)
+I (.\CMSIS\system_stm32f10x.h)(0x559784D6)
+I (.\USER\stm32f10x_conf.h)(0x5B00C69D)
+I (.\FWlib\inc\stm32f10x_gpio.h)(0x559784D6)
+I (.\FWlib\inc\stm32f10x_rcc.h)(0x559784D6)
+I (.\FWlib\inc\stm32f10x_tim.h)(0x559784D6)
+I (.\FWlib\inc\stm32f10x_usart.h)(0x559784D6)
+I (.\FWlib\inc\misc.h)(0x559784D6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x54C245B8)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x54C245B8)
+I (USER\delay.h)(0x5B018646)
+I (USER\systick.h)(0x5A44E219)
+I (USER\usart1.h)(0x5B248107)
+I (USER\usart2.h)(0x5AB5FE57)
+I (USER\usart3.h)(0x5B23C3C8)
+I (USER\client.h)(0x5B23A7EF)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x54C245B8)
+I (USER\TIME2.h)(0x5AFFFCB3)
+I (USER\beep.h)(0x5B23B4A4)
+I (USER\usart2printf.h)(0x5AB61588)
+F (.\USER\Hardware.h)(0x5B00F1A1)()
+F (.\USER\stm32f10x_conf.h)(0x5B00C69D)()
+F (.\USER\beep.c)(0x5B3F7106)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I.\CMSIS -I.\CMSIS\startup -I.\FWlib\inc -I.\USER --c99-I G:\µÂ·ÉÀ³WIFI\WiFi\RTE-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="515" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\objects\beep.o --omf_browse .\objects\beep.crf --depend .\objects\beep.d)
+I (USER\main.h)(0x5B23C305)
+I (.\CMSIS\stm32f10x.h)(0x55E50A8E)
+I (.\CMSIS\core_cm3.h)(0x559784D6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54C245B8)
+I (.\CMSIS\system_stm32f10x.h)(0x559784D6)
+I (.\USER\stm32f10x_conf.h)(0x5B00C69D)
+I (.\FWlib\inc\stm32f10x_gpio.h)(0x559784D6)
+I (.\FWlib\inc\stm32f10x_rcc.h)(0x559784D6)
+I (.\FWlib\inc\stm32f10x_tim.h)(0x559784D6)
+I (.\FWlib\inc\stm32f10x_usart.h)(0x559784D6)
+I (.\FWlib\inc\misc.h)(0x559784D6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x54C245B8)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x54C245B8)
+I (USER\delay.h)(0x5B018646)
+I (USER\systick.h)(0x5A44E219)
+I (USER\usart1.h)(0x5B248107)
+I (USER\usart2.h)(0x5AB5FE57)
+I (USER\usart3.h)(0x5B23C3C8)
+I (USER\client.h)(0x5B23A7EF)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x54C245B8)
+I (USER\TIME2.h)(0x5AFFFCB3)
+I (USER\beep.h)(0x5B23B4A4)
+I (USER\usart2printf.h)(0x5AB61588)
+F (.\USER\main.h)(0x5B23C305)()
+F (.\USER\delay.c)(0x5B0186AC)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I.\CMSIS -I.\CMSIS\startup -I.\FWlib\inc -I.\USER --c99-I G:\µÂ·ÉÀ³WIFI\WiFi\RTE-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="515" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\objects\delay.o --omf_browse .\objects\delay.crf --depend .\objects\delay.d)
+I (USER\delay.h)(0x5B018646)
+I (.\CMSIS\stm32f10x.h)(0x55E50A8E)
+I (.\CMSIS\core_cm3.h)(0x559784D6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54C245B8)
+I (.\CMSIS\system_stm32f10x.h)(0x559784D6)
+I (.\USER\stm32f10x_conf.h)(0x5B00C69D)
+I (.\FWlib\inc\stm32f10x_gpio.h)(0x559784D6)
+I (.\FWlib\inc\stm32f10x_rcc.h)(0x559784D6)
+I (.\FWlib\inc\stm32f10x_tim.h)(0x559784D6)
+I (.\FWlib\inc\stm32f10x_usart.h)(0x559784D6)
+I (.\FWlib\inc\misc.h)(0x559784D6)
+F (.\USER\usart2printf.c)(0x5B1A0894)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I.\CMSIS -I.\CMSIS\startup -I.\FWlib\inc -I.\USER --c99-I G:\µÂ·ÉÀ³WIFI\WiFi\RTE-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="515" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\objects\usart2printf.o --omf_browse .\objects\usart2printf.crf --depend .\objects\usart2printf.d)
+I (USER\main.h)(0x5B23C305)
+I (.\CMSIS\stm32f10x.h)(0x55E50A8E)
+I (.\CMSIS\core_cm3.h)(0x559784D6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54C245B8)
+I (.\CMSIS\system_stm32f10x.h)(0x559784D6)
+I (.\USER\stm32f10x_conf.h)(0x5B00C69D)
+I (.\FWlib\inc\stm32f10x_gpio.h)(0x559784D6)
+I (.\FWlib\inc\stm32f10x_rcc.h)(0x559784D6)
+I (.\FWlib\inc\stm32f10x_tim.h)(0x559784D6)
+I (.\FWlib\inc\stm32f10x_usart.h)(0x559784D6)
+I (.\FWlib\inc\misc.h)(0x559784D6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x54C245B8)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x54C245B8)
+I (USER\delay.h)(0x5B018646)
+I (USER\systick.h)(0x5A44E219)
+I (USER\usart1.h)(0x5B248107)
+I (USER\usart2.h)(0x5AB5FE57)
+I (USER\usart3.h)(0x5B23C3C8)
+I (USER\client.h)(0x5B23A7EF)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x54C245B8)
+I (USER\TIME2.h)(0x5AFFFCB3)
+I (USER\beep.h)(0x5B23B4A4)
+I (USER\usart2printf.h)(0x5AB61588)
+I (C:\Keil_v5\ARM\ARMCC\include\stdarg.h)(0x54C245B8)
